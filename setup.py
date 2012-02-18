@@ -14,8 +14,6 @@ setup(
     license = 'BSD',
     packages = find_packages(),
     install_requires = [
-        'django >= 1.3',
-        'hookbox >= 0.3.4dev',
         'testfixtures >= 1.9',
     ],
     classifiers = [
